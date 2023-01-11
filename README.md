@@ -1,6 +1,6 @@
 # VTP
 
-It is created for the assignment
+It is created for the VTP internship assignment
 
 When you run the application:
 
